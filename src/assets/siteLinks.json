@@ -1,37 +1,32 @@
 [
   {
     "icon": "Book",
-    "name": "博客",
+    "name": "个人博客",
     "link": "https://blog.yyah.top/"
   },
   {
     "icon": "Cloud",
-    "name": "云维基谷歌学术镜像系统",
+    "name": "自由维基镜像",
     "link": "https://cloud-w.yyah.top/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "Rocketchat",
+    "name": "聊天室",
+    "link": "https://blog.yyah.top/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "木有东西",
+    "link": "#"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "#"
+  },
+  {
+    "icon": "Book",
+    "name": "友情链接",
+    "link": "https://blog.yyah.top/index.php/youlian.html"
   }
 ]
